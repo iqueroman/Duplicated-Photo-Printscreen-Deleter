@@ -1,0 +1,10 @@
+# Detector de Imagens Duplicadas - Instagram Screenshots
+# Dependências principais
+
+Pillow>=10.0.0
+imagehash>=4.3.1
+
+# Dependências opcionais (para análise SSIM avançada)
+# opencv-python>=4.8.0
+# scikit-image>=0.21.0
+# numpy>=1.24.0
